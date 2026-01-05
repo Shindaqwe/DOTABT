@@ -1,0 +1,14 @@
+# Ключи API
+BOT_TOKEN=your_telegram_bot_token_here
+STEAM_API_KEY=your_steam_api_key_here
+
+# База данных (для Railway/Heroku)
+DATABASE_URL=postgresql://user:password@host:port/database
+
+# Настройки бота
+DEBUG=False
+LOG_LEVEL=INFO
+
+# Настройки сервера
+PORT=8080
+HOST=0.0.0.0
